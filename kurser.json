@@ -1,0 +1,120 @@
+﻿{
+  "information": [
+    {
+      "info": "Anders Strömberg, anst9000"
+    },
+    {
+      "info": "Jag läser tredje året på Datateknik"
+    }
+  ],
+  "kurser": [
+    {
+      "kurskod": "MA098G",
+      "namn": "Diskret matematik",
+      "progression": "A",
+      "kursplan": "https://www.miun.se/utbildning/kurser/Sok-kursplan/kursplan/?kursplanid=22086"
+    },
+    {
+      "kurskod": "MA074G",
+      "namn": "Matematisk statistik och linjär algebra",
+      "progression": "A",
+      "kursplan": "https://www.miun.se/utbildning/kurser/Sok-kursplan/kursplan/?kursplanid=21643"
+    },
+    {
+      "kurskod": "JO011G",
+      "namn": "Kommunikation i tal och skrift",
+      "progression": "A",
+      "kursplan": "https://www.miun.se/utbildning/kurser/Sok-kursplan/kursplan/?kursplanid=19645"
+    },
+    {
+      "kurskod": "DV002G",
+      "namn": "Programmeringsmetodik I med Java",
+      "progression": "A",
+      "kursplan": "https://www.miun.se/utbildning/kurser/Sok-kursplan/kursplan/?kursplanid=21249"
+    },
+    {
+      "kurskod": "DT173G",
+      "namn": "Webbutveckling III",
+      "progression": "B",
+      "kursplan": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=21873"
+    },
+    {
+      "kurskod": "DT171G",
+      "namn": "Inbäddade system för Internet of Things",
+      "progression": "B",
+      "kursplan": "https://www.miun.se/utbildning/kurser/Sok-kursplan/kursplan/?kursplanid=17762"
+    },
+    {
+      "kurskod": "DT168G",
+      "namn": "Människa-datorinteraktion",
+      "progression": "C",
+      "kursplan": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=19696"
+    },
+    {
+      "kurskod": "DT155G",
+      "namn": "Grundläggande datavetenskap",
+      "progression": "A",
+      "kursplan": "https://www.miun.se/utbildning/kurser/Sok-kursplan/kursplan/?kursplanid=19694"
+    },
+    {
+      "kurskod": "DT149G",
+      "namn": "Administration av UNIX-lika system",
+      "progression": "B",
+      "kursplan": "https://www.miun.se/utbildning/kurser/Sok-kursplan/kursplan/?kursplanid=21588"
+    },
+    {
+      "kurskod": "DT076G",
+      "namn": "Databaser, modellering och implementering",
+      "progression": "B",
+      "kursplan": "https://www.miun.se/utbildning/kurser/Sok-kursplan/kursplan/?kursplanid=17951"
+    },
+    {
+      "kurskod": "DT058G",
+      "namn": "Webbprogrammering",
+      "progression": "B",
+      "kursplan": "https://www.miun.se/utbildning/kurser/Sok-kursplan/kursplan/?kursplanid=17694"
+    },
+    {
+      "kurskod": "DT046G",
+      "namn": "Datastrukturer och algoritmer",
+      "progression": "B",
+      "kursplan": "https://www.miun.se/utbildning/kurser/Sok-kursplan/kursplan/?kursplanid=18071"
+    },
+    {
+      "kurskod": "DT024G",
+      "namn": " Datornätverk",
+      "progression": "A",
+      "kursplan": "https://www.miun.se/utbildning/kurser/Sok-kursplan/kursplan/?kursplanid=18068"
+    },
+    {
+      "kurskod": "DT019G",
+      "namn": "Objektbaserad programmering i C++",
+      "progression": "A",
+      "kursplan": "https://www.miun.se/utbildning/kurser/Sok-kursplan/kursplan/?kursplanid=18066"
+    },
+    {
+      "kurskod": "DT018G",
+      "namn": "Introduktion till programmering i C++",
+      "progression": "A",
+      "kursplan": "https://www.miun.se/utbildning/kurser/data-och-it/datateknik/datateknik-gr-a-introduktion-till-programmering-i-c-75-hp/kursplan/"
+    },
+    {
+      "kurskod": "DT011G",
+      "namn": "Operativsystem introduktionskurs",
+      "progression": "A",
+      "kursplan": "https://www.miun.se/utbildning/kurser/Sok-kursplan/kursplan/?kursplanid=21259"
+    },
+    {
+      "kurskod": "DT007G",
+      "namn": "Java II",
+      "progression": "A",
+      "kursplan": "https://www.miun.se/utbildning/kurser/Sok-kursplan/kursplan/?kursplanid=18063"
+    },
+    {
+      "kurskod": "DT006G",
+      "namn": "Java I",
+      "progression": "A",
+      "kursplan": "https://www.miun.se/utbildning/kurser/Sok-kursplan/kursplan/?kursplanid=18814"
+    }
+  ]
+}
